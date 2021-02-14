@@ -1,0 +1,17 @@
+{
+  "name": "frameworkless-study-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^26.6.3",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
